@@ -2,7 +2,7 @@ spring:
   datasource:
     username: postgres
     url: jdbc:postgresql://localhost:5432/product
-    password: Rx^JepZZ8MQhd6
+    password:
   application:
     name: micro-order-item
   jpa:
